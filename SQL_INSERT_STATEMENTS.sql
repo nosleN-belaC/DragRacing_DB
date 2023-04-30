@@ -1,4 +1,3 @@
-﻿/*
 insert into dbo.Tracks (Name, City, Region, Country, Distance)
 values
 ('Meremere Dragway','Auckland','Meremere','New Zealand','1/4 Mile'),
@@ -56,4 +55,3 @@ values
 ('11','11.36s','Dry','2022-07-16','3'),
 ('9','9.51s','Dry','2022-04-29','2'),
 ('3','11.47s','Wet','2022-08-09','2')
-*/
